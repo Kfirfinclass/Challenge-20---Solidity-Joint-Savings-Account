@@ -23,6 +23,7 @@ Solidity 0.5.17.
 
 
 *Use*
+
 <img width="482" alt="use" src="https://user-images.githubusercontent.com/98926901/184755270-63078034-37d3-464c-833b-f489a11edc4c.png">
 
 
@@ -33,7 +34,17 @@ Solidity 0.5.17.
 
 *Testing Deposits*
 
+1 ETH
+
 ![182969474-6fa470d1-feab-45df-a425-2c3f87490596](https://user-images.githubusercontent.com/98926901/184644132-022c9926-0f2f-4c08-bcf9-9edf8f8ad214.png)
+
+5 ETH
+
+![182969718-0371b018-fca2-4ac2-94b6-c089a9cc605c](https://user-images.githubusercontent.com/98926901/184755565-b88bd46b-52dc-410f-9510-850c7b7ed77b.png)
+
+10 ETH
+
+![182969585-a81e26b3-5e53-4338-a76a-ff8f15fa9dcb](https://user-images.githubusercontent.com/98926901/184755619-69ddc160-ff3e-42ae-823a-dcccdb5a782c.png)
 
 
 *Withdraw Functions*

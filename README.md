@@ -49,7 +49,23 @@ Solidity 0.5.17.
 
 *Withdraw Functions*
 
+Into Account 1
+
 ![182969973-2a1323fc-7e8f-4243-81b0-91a51b6486a0](https://user-images.githubusercontent.com/98926901/184644236-6ff16f8e-c490-4850-ba8f-f375d45c32d0.png)
+
+Balance
+
+![182970037-4f698d7a-d2de-4af6-9f58-702891873492](https://user-images.githubusercontent.com/98926901/184755745-d7a9078f-4bbe-44c1-b152-9a25f6eef3eb.png)
+
+
+Into Account 2
+
+![182970173-af445009-d39d-4ebf-8561-de941ed74b65](https://user-images.githubusercontent.com/98926901/184755800-65156690-2843-475e-8e20-79d7c4360deb.png)
+
+Balance
+
+![182970179-aae3127d-6363-43f1-810e-c00d8d66c2e2](https://user-images.githubusercontent.com/98926901/184755818-780b613e-dda7-4a2c-9dfd-8f1974fa1017.png)
+
 
 
 ---
